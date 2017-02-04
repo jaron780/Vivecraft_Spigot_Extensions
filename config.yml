@@ -55,3 +55,6 @@ welcomemsg:
   welcomenonVR: Welcome, &player!
   welcomeSeated: Welcome Seated Player!
   leaveMessage: &player has left the server!
+climbey:
+  #Allows use of jump_boots and climb_claws. Provide with /give (player) climb_claws | jump_boots
+  enabled: false
