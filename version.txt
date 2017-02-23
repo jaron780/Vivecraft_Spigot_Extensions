@@ -5,3 +5,4 @@
 1.11-r6b: VSE has a new update download at https://github.com/jrbudda/Vivecraft_Spigot_Extensions/releases
 1.11-r6beta37: VSE has a new update download at https://github.com/jrbudda/Vivecraft_Spigot_Extensions/releases
 1.11-r6: VSE is up to date!
+1.11-r7: HEY YOUR NOT A DEV
